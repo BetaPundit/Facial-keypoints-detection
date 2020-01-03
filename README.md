@@ -1,6 +1,8 @@
 # Facial keypoints detection
 Detect facial keypoints using Convolutional Neural Network in Pytorch.
 
+Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
+
 <img src='images/landmarks_numbered.jpg' height= 250>
 <img src='images/key_pts_example.png' height = 250>
 
